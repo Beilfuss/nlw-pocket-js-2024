@@ -19,16 +19,16 @@
 
 ## Gif e screenshots do projeto
 
-### Gif das funcionalidades
+#### Gif das funcionalidades
 ![in-orbit-gif](img/in-orbit.gif)
 
-### Tela inicial sem metas cadastradas
+#### Tela inicial sem metas cadastradas
 ![in-orbit-empty](img/in-orbit-empty.png)
 
-### Modal lateral para cadastro de metas
+#### Modal lateral para cadastro de metas
 ![in-orbit-side-modal](img/in-orbit-side-modal.png)
 
-### Tela inicial com metas cadastradas
+#### Tela inicial com metas cadastradas
 ![in-orbit-filled](img/in-orbit-filled.png)
 
 ## Como rodar o projeto
